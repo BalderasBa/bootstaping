@@ -1,2 +1,2 @@
 # bootstaping
-HTML 5 + Bootstrap 5 page
+onepage website using HTML 5 + Bootstrap 5
